@@ -7,7 +7,7 @@
 }
 
 [epub|type~="z3998:poem"][xml|lang]{
-    font-style: italic;
+	font-style: italic;
 }
 
 [epub|type~="z3998:poem"] p{
