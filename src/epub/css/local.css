@@ -2,11 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-section[epub|type~="z3998:subchapter"] ~ hr{
-	border-top: 2px solid;
-	width: 50%;
-}
-
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
