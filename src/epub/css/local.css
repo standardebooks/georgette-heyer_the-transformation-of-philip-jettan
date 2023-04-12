@@ -12,7 +12,7 @@ section[epub|type~="z3998:subchapter"] ~ hr{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:verse"][xml|lang]{
+blockquote[xml|lang]{
 	font-style: italic;
 }
 
