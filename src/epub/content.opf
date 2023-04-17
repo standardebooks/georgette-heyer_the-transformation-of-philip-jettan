@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/georgette-heyer/the-transformation-of-philip-jettan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-04-17T18:29:01Z</dc:date>
+		<meta property="dcterms:modified">2023-04-17T18:29:01Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -54,15 +54,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">In eighteenth-century England, a handsome youth reluctantly transforms himself into a fashionable gentleman in order to win the heart of the girl he loves.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set in England and France in the 1750s, Philip Jettan is an unpolished young country gentleman in love with Cleone. She is also in love with him, but wishes he were more sophisticated. Due to poor communication and insecurity on both their parts, she rejects him and he sets off to attempt to transform himself into the fashionable gentleman she desires.&lt;/p&gt;
-			&lt;p&gt;This is an early romance novel by &lt;a href="https://standardebooks.org/ebooks/georgette-heyer"&gt;Georgette Heyer&lt;/a&gt; published in 1923 and set in the Georgian era. It was her only novel published under a pseudonym (Stella Martin), and according to one source it was written in just three weeks. In 1930 it was republished as &lt;i&gt;Powder and Patch&lt;/i&gt; without the last chapter.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Transformation of Philip Jettan&lt;/i&gt; is set in England and France in the 1750s. The titular Philip Jettan is an unpolished young country gentleman in love with Cleone. Cleone is also in love with him, but wishes he were more sophisticated. Due to poor communication and insecurity on both their parts, she rejects him, and he sets off to attempt to transform himself into the fashionable gentleman she desires.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Transformation&lt;/i&gt; is an example of an early romance novel. It was the only novel &lt;a href="https://standardebooks.org/ebooks/georgette-heyer"&gt;Heyer&lt;/a&gt; published under a pseudonym (as “Stella Martin”sec), and, according to one source, it was written in just three weeks. In 1930 it was republished as &lt;i&gt;Powder and Patch&lt;/i&gt;, but without the last chapter.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60776</dc:source>
 		<dc:source>https://archive.org/details/powderpatchtrans0000heye</dc:source>
 		<meta property="se:production-notes">The page scans used were of Powder and Patch, which does not include Chapter 20, since page scans of The Transformation of Philip Jettan were not available. Italics for French loanwords which have since entered the English language have been retained for flavor, as the book contains a significant amount of mixed French/English text.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48581</meta>
+		<meta property="se:reading-ease.flesch">88.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Transformation_of_Philip_Jettan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_the-transformation-of-philip-jettan</meta>
 		<dc:creator id="author">Georgette Heyer</dc:creator>
@@ -95,6 +95,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
