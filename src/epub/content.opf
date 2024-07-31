@@ -61,7 +61,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/60776</dc:source>
 		<dc:source>https://archive.org/details/powderpatchtrans0000heye</dc:source>
 		<meta property="se:production-notes">The page scans used were of Powder and Patch, which does not include Chapter 20, since page scans of The Transformation of Philip Jettan were not available. Italics for French loanwords which have since entered the English language have been retained for flavor, as the book contains a significant amount of mixed French/English text.</meta>
-		<meta property="se:word-count">48581</meta>
+		<meta property="se:word-count">48579</meta>
 		<meta property="se:reading-ease.flesch">88.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Transformation_of_Philip_Jettan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_the-transformation-of-philip-jettan</meta>
