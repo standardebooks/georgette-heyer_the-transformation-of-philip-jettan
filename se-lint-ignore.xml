@@ -2,16 +2,22 @@
 <se-lint-ignore>
 	<file path="chapter-10.xhtml">
 		<ignore code="t-043">
+			<line>91</line>
 			<reason>Prose style of this book makes use of mixed English/French.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
 		<ignore code="t-043">
+			<line>14</line>
+			<line>15</line>
+			<line>115</line>
+			<line>120</line>
 			<reason>Prose style of this book makes use of mixed English/French.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-13.xhtml">
 		<ignore code="t-043">
+			<line>39</line>
 			<reason>Prose style of this book makes use of mixed English/French.</reason>
 		</ignore>
 	</file>
