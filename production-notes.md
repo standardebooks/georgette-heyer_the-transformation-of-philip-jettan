@@ -1,0 +1,1 @@
+The page scans used were of Powder and Patch, which does not include Chapter 20, since page scans of The Transformation of Philip Jettan were not available. Italics for French loanwords which have since entered the English language have been retained for flavor, as the book contains a significant amount of mixed French/English text.
