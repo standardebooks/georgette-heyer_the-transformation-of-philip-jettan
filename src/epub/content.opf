@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Transformation of Philip Jettan: A Comedy of Manners</dc:title>
 		<meta property="file-as" refines="#fulltitle">Transformation of Philip Jettan, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">Powder and Patch</meta>
 		<dc:subject id="subject-1">First loves -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
